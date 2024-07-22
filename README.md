@@ -1,4 +1,4 @@
-# Pragrith's Portfolio
+- Pragrith's Portfolio
 
 # Analysis of Social Media Sentiment
 * Python and Tweepy were used to gather and prepare Twitter data for a product launch.
