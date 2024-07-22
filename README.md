@@ -1,5 +1,3 @@
-- Pragrith's Portfolio
-
 # Analysis of Social Media Sentiment
 * Python and Tweepy were used to gather and prepare Twitter data for a product launch.
 * Applied Natural Language Processing (NLP) methods to sentiment analysis.
